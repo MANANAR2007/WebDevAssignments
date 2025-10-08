@@ -27,6 +27,7 @@
 - `recipe.html`
 - `table.html`
 - `weekend_plans.html`
+- `layout.html`
 
 ---
 
